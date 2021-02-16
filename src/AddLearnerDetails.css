@@ -1,0 +1,21 @@
+.add-form{
+    text-align: center;
+    background-color: lightblue;
+}
+
+.Subjects{
+    column-span: initial;
+}
+
+.Subjects label{
+    display: inline;
+    padding-right: 150px;
+    white-space: nowrap;
+}
+
+.Subjects input{
+    align-content: space-around;
+    background-color: lime;
+}
+
+
